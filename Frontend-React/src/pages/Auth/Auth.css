@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif; /* Fixed typo in sans-serif */
+}
+
+.authContainer {
+  background-image: url("bitcoin-6934559_1280.jpg");
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative; /* Added to ensure absolute children position correctly */
+  overflow: hidden; /* Prevent potential scrollbars */
+}
+
+.bgBlure {
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px); /* For Safari support */
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease; /* Smooth transitions for any hover effects */
+}
+
+/* Add responsive styles for mobile devices */
+@media (max-width: 768px) {
+  .bgBlure {
+    width: 90% !important;
+    height: auto !important;
+    min-height: 80vh;
+    padding: 1.5rem;
+  }
+}
+
+/* Add responsive styles for very small screens */
+@media (max-width: 480px) {
+  .bgBlure {
+    width: 95% !important;
+    min-height: 85vh;
+  }
+  
+  .bgBlure h1 {
+    font-size: 2rem !important;
+    padding-bottom: 1rem !important;
+  }
+}
