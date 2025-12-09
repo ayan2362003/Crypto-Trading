@@ -44,8 +44,7 @@ Once both backend and frontend are running successfully, you can register and pe
 ![image](https://github.com/user-attachments/assets/cc32ebd9-d379-4c5a-b626-9ab8c5eb25b5)
 
 ## Home
-![image](![Home](https://github.com/user-attachments/assets/c21ac62d-1915-42d5-91ae-b3e89a70bee9)
-)
+![image](https://github.com/user-attachments/assets/c21ac62d-1915-42d5-91ae-b3e89a70bee9)
 
 ## Portfolio
 ![image](https://github.com/user-attachments/assets/149d1def-7ca0-4407-ba09-0f160a296ea5)
