@@ -47,13 +47,14 @@ Once both backend and frontend are running successfully, you can register and pe
 ![image](https://github.com/user-attachments/assets/c21ac62d-1915-42d5-91ae-b3e89a70bee9)
 
 ## Portfolio
-![image](https://github.com/user-attachments/assets/149d1def-7ca0-4407-ba09-0f160a296ea5)
+![image](https://github.com/user-attachments/assets/bf7ed385-7ab6-448d-a41f-9cec0d1d973b)   
 
-## Activity
-![image](https://github.com/user-attachments/assets/4f0a8d4c-6374-44e5-9507-0781229b7746)
+## Trading History
+![image](https://github.com/user-attachments/assets/5451e8ce-1562-4c5e-ac85-94ad97f57de0)
 
-## SideBar
-![image](https://github.com/user-attachments/assets/6744a403-e747-4b68-b0b4-42f5c85035ac)
+## Sidebar
+![image](https://github.com/user-attachments/assets/8a646a6d-305f-433e-8114-a9c2dd878a16)
+
 
 ## Search
 ![image](https://github.com/user-attachments/assets/96a685b1-deb0-4db3-9aa8-c9315fbb7ae6)
