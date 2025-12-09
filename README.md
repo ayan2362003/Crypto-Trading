@@ -38,14 +38,14 @@ Once both backend and frontend are running successfully, you can register and pe
 ## Images
 
 ## Login
-![image](![Login Account](https://github.com/user-attachments/assets/60aa2d06-6eec-4cf4-812d-8b051a7aef62)
-)
+![image](https://github.com/user-attachments/assets/60aa2d06-6eec-4cf4-812d-8b051a7aef62)
 
 ## Signup
-![image](https://github.com/user-attachments/assets/30de70b4-8d06-4861-9b69-cbe0bcb0f1a0)
+![image](https://github.com/user-attachments/assets/cc32ebd9-d379-4c5a-b626-9ab8c5eb25b5)
 
 ## Home
-![image](https://github.com/user-attachments/assets/6d59ed73-dd65-42e9-b9f8-c8cc77815693)
+![image](![Home](https://github.com/user-attachments/assets/c21ac62d-1915-42d5-91ae-b3e89a70bee9)
+)
 
 ## Portfolio
 ![image](https://github.com/user-attachments/assets/149d1def-7ca0-4407-ba09-0f160a296ea5)
