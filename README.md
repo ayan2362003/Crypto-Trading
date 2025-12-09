@@ -1,67 +1,72 @@
-# Crypto-Trading 🚀
+# Crypto-Trading
+# Local Machine Setup Instructions
 
-> A web application for cryptocurrency trading — manage portfolios, view market data, and simulate trades.
+## Backend Setup
+1. Open the `Backend` folder in IntelliJ IDEA.
+2. Navigate to the `application.properties` file.
+3. Update the following configurations:
+   - **Database Credentials:** Set your MySQL username and password, and create a database named `treading`.
+   - **Java Mail Sender:**
+     - Provide your email.
+     - Set your Gmail app password (search online if needed: "how to create an app password for Gmail").
+   - **Payment Gateway Keys:**
+     - **Stripe:** Provide your API key.
+     - **Razorpay:** Provide your API key and API secret.
+   - **Third-Party API Keys:**
+     - **Coingecko:** Provide your API key.
+     - **Gemini:** Provide your API key.
+4. Save the file and run the project.
 
-## Table of Contents
-- [About](#about)  
-- [Features](#features)  
-- [Technology Stack](#technology-stack)  
-- [Screenshots / Demo](#screenshots--demo)  
-- [Getting Started](#getting-started)  
-  - [Backend Setup](#backend-setup)  
-  - [Frontend Setup](#frontend-setup)  
-- [Usage](#usage)  
-- [Future Improvements](#future-improvements)  
-- [Contributing](#contributing)  
-- [License](#license)  
-
----
-
-## About  
-Describe what your project does, why you built it, and what problem it solves. For example:  
-This project is built to help users track and trade cryptocurrencies. It provides real-time market data, portfolio management, and integrated payment/transaction support.  
-
----
-
-## Features  
-- User authentication (signup / login)  
-- Real-time crypto prices (via external APIs)  
-- Portfolio dashboard — view holdings, profits/losses, history  
-- Buy / sell simulation (or real trading, if connected)  
-- Payment gateway integration (e.g. for deposits / withdrawals)  
-- Responsive UI for desktop and mobile  
-
----
-
-## Technology Stack  
-- **Backend:** Java + Spring Boot (or whichever)  
-- **Frontend:** React (or whichever)  
-- **Database:** MySQL (or whichever)  
-- **APIs / External Services:** Crypto price API (e.g. CoinGecko), Payment gateway (e.g. Stripe / Razorpay)  
-- **Other:** (mail sender, authentication libraries …)  
-
----
-
-## Screenshots / Demo  
-
-<!-- Add screenshots or demo gifs here -->  
-![Login Screen](path/to/login_screenshot.png)  
-![Dashboard](path/to/dashboard_screenshot.png)  
-![Portfolio View](path/to/portfolio_screenshot.png)  
-
----
-
-## Getting Started  
-
-### Backend Setup  
-1. Open the `Backend` folder in your IDE (e.g. IntelliJ IDEA).  
-2. In `application.properties`, configure:  
-   - Database credentials (MySQL username/password), and create a database (e.g. `trading_db`)  
-   - API keys and secrets for Crypto API (e.g. CoinGecko), Payment gateway (Stripe / Razorpay), Mail sender config, etc.  
-3. Run the backend server.  
-
-### Frontend Setup  
-1. Open the `Frontend` folder in your code editor (e.g. VS Code).  
-2. Install dependencies:  
-   ```bash
+## Frontend Setup
+1. Open the `Frontend` folder in Visual Studio Code (VS Code).
+2. Install dependencies by running:
+   ```sh
    npm install
+   ```
+3. Start the frontend application:
+   ```sh
+   npm run dev
+   ```
+   or
+   ```sh
+   npm start
+   ```
+
+## Running the Application
+Once both backend and frontend are running successfully, you can register and perform other operations within the application.
+
+## Images
+
+## Login
+![image](![Login Account](https://github.com/user-attachments/assets/60aa2d06-6eec-4cf4-812d-8b051a7aef62)
+)
+
+## Signup
+![image](https://github.com/user-attachments/assets/30de70b4-8d06-4861-9b69-cbe0bcb0f1a0)
+
+## Home
+![image](https://github.com/user-attachments/assets/6d59ed73-dd65-42e9-b9f8-c8cc77815693)
+
+## Portfolio
+![image](https://github.com/user-attachments/assets/149d1def-7ca0-4407-ba09-0f160a296ea5)
+
+## Activity
+![image](https://github.com/user-attachments/assets/4f0a8d4c-6374-44e5-9507-0781229b7746)
+
+## SideBar
+![image](https://github.com/user-attachments/assets/6744a403-e747-4b68-b0b4-42f5c85035ac)
+
+## Search
+![image](https://github.com/user-attachments/assets/96a685b1-deb0-4db3-9aa8-c9315fbb7ae6)
+
+## My Wallet
+![image](https://github.com/user-attachments/assets/e6530df2-c20b-4856-bb95-b2dfc4c25c55)
+
+## Payment Details
+![image](https://github.com/user-attachments/assets/3bdcc1f9-d618-426e-9340-84402a8bf689)
+
+## Profile
+![image](https://github.com/user-attachments/assets/5ea763f1-4b19-4313-ac05-c676f60aa453)
+
+---
+For any issues, refer to documentation or seek help online.
