@@ -55,18 +55,18 @@ Once both backend and frontend are running successfully, you can register and pe
 ## Sidebar
 ![image](https://github.com/user-attachments/assets/8a646a6d-305f-433e-8114-a9c2dd878a16)
 
-
 ## Search
-![image](https://github.com/user-attachments/assets/96a685b1-deb0-4db3-9aa8-c9315fbb7ae6)
+![image](https://github.com/user-attachments/assets/217b08ea-c9df-4d96-aef3-69bc8b48545c)
 
 ## My Wallet
-![image](https://github.com/user-attachments/assets/e6530df2-c20b-4856-bb95-b2dfc4c25c55)
+![image](https://github.com/user-attachments/assets/91d338e5-8fcf-441f-aec9-4f10cf657c79)
 
 ## Payment Details
-![image](https://github.com/user-attachments/assets/3bdcc1f9-d618-426e-9340-84402a8bf689)
+![image](https://github.com/user-attachments/assets/29056fed-e253-46d3-9d2a-2dde9000869e)
 
 ## Profile
-![image](https://github.com/user-attachments/assets/5ea763f1-4b19-4313-ac05-c676f60aa453)
+![image](https://github.com/user-attachments/assets/3fdf8d0b-b421-4e5a-b7d7-d087394a241d)
+
 
 ---
 For any issues, refer to documentation or seek help online.
